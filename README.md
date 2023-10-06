@@ -1,6 +1,11 @@
-[![MasterHead](https://media.istockphoto.com/id/1167600251/vector/back-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=mfv4Pjj_hHX7l7UtKyokMi8T-PvK0dX7ZU_wxuzkmLg=)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kyrylo</h1>
-<h3 align="center">🚀 Coding faster than the speed of caffeine! ☕️</h3>
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://media.istockphoto.com/id/1167600251/vector/back-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=mfv4Pjj_hHX7l7UtKyokMi8T-PvK0dX7ZU_wxuzkmLg=" alt="MasterHead">
+  </a>
+</p>
+
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">🌌🚀 May the Code be with you, always!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrylobulyk&label=Profile%20views&color=0e75b6&style=flat" alt="kyrylobulyk" /> </p>
 
@@ -14,7 +19,7 @@
 
 - 📫 How to reach me **kyrylo.bulyk@gmail.com**
 
-- ⚡ Fun fact **May the Code be with you, always! 🌌🚀**
+- ⚡ Fun fact **🚀 Coding faster than the speed of caffeine! ☕️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
